@@ -1,6 +1,4 @@
 spring:
-  application:
-   name: MarketingService
   api:
     version: v1
 server:
